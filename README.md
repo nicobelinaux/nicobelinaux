@@ -22,7 +22,7 @@ Mi objetivo principal es impactar el mundo de los datos 🎆
 No solo disfruto de la analítica por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creíamos ya resueltos.
 
 🌐 Socials:
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/nicolas-belinaux-082017325/
 
 💻 Tech Stack:
 Python Power Bi MicrosoftSQLServer NumPy Matplotlib PandasMarkdown    
